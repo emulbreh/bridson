@@ -7,7 +7,7 @@ pds2d
 
 Two Dimensional Poisson Disc Sampling using `Robert Bridson's algorithm <https://www.cs.ubc.ca/~rbridson/docs/bridson-siggraph07-poissondisk.pdf>`_
 
-.. image:: sample.svg
+.. image:: https://cdn.rawgit.com/emulbreh/pds2d/master/sample.svg
 
 
 Usage
