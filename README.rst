@@ -16,7 +16,7 @@ Usage
 .. code-block:: python
 
     >>> from pds2d import poisson_disc_samples
-    >>> poisson_disc_samples(100, 100, 10)
+    >>> poisson_disc_samples(width=100, height=100, r=10)
     [(18.368737154138397, 0.6537095218417459),
      (31.037620677039477, 0.11127035812202124),
      (42.36176894248073, 7.038053455899708),
