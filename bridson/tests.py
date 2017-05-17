@@ -2,7 +2,7 @@ import math
 import unittest
 import random
 
-from pds2d import poisson_disc_samples
+from bridson import poisson_disc_samples
 
 
 class PoissonDiscSamplingRadiusTest(unittest.TestCase):

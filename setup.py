@@ -6,8 +6,8 @@ with open('README.rst') as f:
 
 
 setup(
-    name='pds2d',
-    url='http://github.com/emulbreh/pds2d/',
+    name='bridson',
+    url='http://github.com/emulbreh/bridson/',
     version='0.1.0',
     packages=find_packages(),
     license=u'BSD License',

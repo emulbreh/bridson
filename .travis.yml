@@ -3,4 +3,4 @@ python:
   - "3.6"
 install:
   - pip install -e .
-script: python -m unittest pds2d.tests
+script: python -m unittest bridson.tests

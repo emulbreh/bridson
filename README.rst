@@ -1,13 +1,13 @@
-.. image:: https://travis-ci.org/emulbreh/pds2d.svg?branch=master
-    :target: https://travis-ci.org/emulbreh/pds2d
+.. image:: https://travis-ci.org/emulbreh/bridson.svg?branch=master
+    :target: https://travis-ci.org/emulbreh/bridson
 
 
-pds2d
-=====
+bridson
+=======
 
 Two Dimensional Poisson Disc Sampling using `Robert Bridson's algorithm <https://www.cs.ubc.ca/~rbridson/docs/bridson-siggraph07-poissondisk.pdf>`_
 
-.. image:: https://cdn.rawgit.com/emulbreh/pds2d/master/sample.svg
+.. image:: https://cdn.rawgit.com/emulbreh/bridson/master/sample.svg
 
 
 Usage
@@ -15,7 +15,7 @@ Usage
 
 .. code-block:: python
 
-    >>> from pds2d import poisson_disc_samples
+    >>> from bridson import poisson_disc_samples
     >>> poisson_disc_samples(width=100, height=100, r=10)
     [(18.368737154138397, 0.6537095218417459),
      (31.037620677039477, 0.11127035812202124),
