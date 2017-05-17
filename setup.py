@@ -12,7 +12,7 @@ setup(
     packages=find_packages(),
     license=u'BSD License',
     author=u'Johannes Dollinger',
-    description=u'poisson disc sampling of 2-dimensional',
+    description=u'poisson disc sampling of 2-dimensional sample domain',
     long_description=description,
     classifiers=[
         'Development Status :: 3 - Alpha',
